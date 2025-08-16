@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm AliRaza</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ali+Raza;Frontend+Developer;Backend+Developer;MERN+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h3 align="center">A Full Stack developer from Pakistan</h3>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*QNgN523Uz11ckMtlwVUxLw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alicodestorm&label=Profile%20views&color=0e75b6&style=flat" alt="alicodestorm" /> </p>
 
 - 🌱 I’m currently learning **🚀 Full Stack || Frontend & Backend Web Developer**
+
+- 🌱 I enjoy creating projects that solve real-world problems  
 
 - 👨‍💻 All of my projects are available at [https://aliraza-codestorm.vercel.app/](https://aliraza-codestorm.vercel.app/)
 
